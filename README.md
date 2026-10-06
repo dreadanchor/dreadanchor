@@ -9,10 +9,10 @@
     #@@                  @@@@&@                     WM:             dwm
    @ @@@                 ##&@@@                     Institution:    IFPB - João Pessoa
  @@@@@@ @               @@&@@@ @@@@@                Major:          Software Engineering
-#@@ @@ @@              #@&%@@      @##              Portfolio:      dreadanchor.com
+#@@ @@ @@              #@&%@@      @##              Homepage:       dreadanchor.com
 @  @@#   #      $$    #@&&@@         @##            Contact:        mail@dreadanchor.com
    #%@          ~$$  #@&@@@                         Interests:      Competitive programming
-   #@@           ~$ #@&%@@                          Languages:      C++, JavaScript, Python
+   #@@           ~$ #@&%@@                          Languages:      C++, JavaScript, TypeScript, Python
    #@@           $ #&&%%@                           
    @@@           $#&&&@@                  ##        
    @@@#   ~$     #@@&%@                 @@@@@@      
